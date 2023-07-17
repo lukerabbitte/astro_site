@@ -4,9 +4,9 @@ import { SITE_TITLE } from '../consts';
 ---
 
 <header>
-	<h2>
+	<h1 id="siteTitle">
 		{SITE_TITLE}
-	</h2>
+	</h1>
 	<nav>
 		<HeaderLink href="/">Home</HeaderLink>
 		<HeaderLink href="/blog">Blog</HeaderLink>
@@ -22,4 +22,21 @@ import { SITE_TITLE } from '../consts';
 	h2 {
 		margin: 0.5em 0;
 	}
+	#siteTitle {
+	margin: 0em;
+	width: 100%;
+
+	font-family: 'Roboto Mono', monospace;
+	font-size: 96px;
+	font-weight: bold;
+	color: #000000;
+	line-height: 2;
+
+	background-image: url('public/keem-bay-min.jpeg');
+	background-size: cover;
+	background-position: center;
+	background-repeat: repeat;
+	background-size: 22%;
+	}
+	
 </style>
