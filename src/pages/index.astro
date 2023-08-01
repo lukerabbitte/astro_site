@@ -3,6 +3,19 @@ import BaseHead from '../components/BaseHead.astro';
 import Header from '../components/Header.astro';
 import Footer from '../components/Footer.astro';
 import { SITE_TITLE, SITE_DESCRIPTION } from '../consts';
+
+
+function generateThreeDigitNumber() {
+	// Generate a random number between 0 and 297
+	const randomNumber = Math.floor(Math.random() * 298);
+	// Format the number as a three-digit string with leading zeros
+	const threeDigitNumber = randomNumber.toString().padStart(3, '0');
+	return threeDigitNumber;
+}
+
+const frameIndex = generateThreeDigitNumber();
+const frameString = `/gif-frames/frame_${frameIndex}_delay-0.09s.gif`;
+console.log(frameString);
 ---
 
 <!DOCTYPE html>
@@ -14,6 +27,7 @@ import { SITE_TITLE, SITE_DESCRIPTION } from '../consts';
 		<Header title={SITE_TITLE} />
 		<main>
 
+			<img id="anagram" src={frameString} alt="Anagram Animation">
 			<img src="/luke-interlaken-min.JPG" alt="Luke Interlaken">
 			<img src="/keem-bay-house-min.jpeg" alt="Keem Bay House">
 			
@@ -22,9 +36,16 @@ import { SITE_TITLE, SITE_DESCRIPTION } from '../consts';
 
 		<style>
 			main {
-			margin: 0;
-			width: 100%
+				margin: 0;
+				width: 100%
 			}
+
+			#anagram {
+				width: 100%;
+				transform: scale(0.5);
+			}
+
+			
 		</style>
 	</body>
 </html>
