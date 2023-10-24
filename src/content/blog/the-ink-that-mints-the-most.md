@@ -1,8 +1,8 @@
 ---
-title: 'The ink that mints the most'
+title: 'The Ink That Mints the Most'
 description: 'Poem written by Luke Rabbitte'
 pubDate: 'Apr 01 2023'
-heroImage: '/keem-bay-house-min.jpeg'
+heroImage: '/caroline-glendalough.jpeg'
 ---
 
 The ink that mints the most  
