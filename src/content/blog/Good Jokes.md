@@ -5,8 +5,7 @@ pubDate: 'Sep 25 2023'
 heroImage: '/bullisland.jpeg'
 ---
 
-
-_What did the earnest burglar leave to the mindless times?_
+What did the earnest burglar leave to the mindless times?
 
 His rising ring finger blood
 Trembling for a friend
