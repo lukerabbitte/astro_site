@@ -35,6 +35,18 @@ import { SITE_TITLE, SITE_DESCRIPTION } from '../consts';
 				width: 100%;
 				transform: scale(0.2);
 			}
+
+			@media (max-width: 899px) {
+				#anagram {
+					transform: scale(0.3); /* Scale for screens below 765px width */
+				}
+			}
+
+			@media (min-width: 900px) {
+				#anagram {
+					transform: scale(0.1); /* Scale for screens with a minimum width of 765px */
+				}
+				}
 			
 		</style>
 
