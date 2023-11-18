@@ -8,7 +8,7 @@ heroImage: '/bullisland.jpeg'
 His rising ring finger blood  
 Trembling for a friend  
 It is the season's end  
-Last call of the trembling evening  
+Last call of the evening  
 The soft cream of his heart is  
 Curving bending  
 Swirling  
