@@ -21,12 +21,12 @@ import { SITE_TITLE, SITE_DESCRIPTION } from '../consts';
 				<p>
 					Some stuff I'm working on at the moment:
 				</p>
-				<ul>
-					<li>🧠 Transformers: Adapting the decision transformer framework for sequence-to-sequence recommendation task</li>
+				<ul class="no-indent">
+					<li class="no-bullet-point">🧠 Transformers: Adapting the decision transformer framework for sequence-to-sequence recommendation task</li>
 					<!--<li>💻 Tobar: Third-level course information platform</li>-->
-					<li>🌐 FullStackOpen: Broadening my fullstack skills with this nice University of Helsinki <a href="https://fullstackopen.com/en/">course</a></li>
-					<li>📚 College: Variety of modules, mostly CS and some linguistics</li>
-					<li>💿 Fun: Working on some audiovisual <a href="https://open.spotify.com/artist/07HIYTYKnxErGY6d27LtNp?si=4PXoZDbnQqeihBDjGfVF7A">art</a></li>
+					<li class="no-bullet-point">🌐 FullStackOpen: Broadening my fullstack skills with this nice University of Helsinki <a href="https://fullstackopen.com/en/">course</a></li>
+					<li class="no-bullet-point">📚 College: Variety of modules, mostly CS and some linguistics</li>
+					<li class="no-bullet-point">💿 Fun: Working on some audiovisual <a href="https://open.spotify.com/artist/07HIYTYKnxErGY6d27LtNp?si=4PXoZDbnQqeihBDjGfVF7A">art</a></li>
 				</ul>
 			</div>
 
@@ -63,9 +63,13 @@ import { SITE_TITLE, SITE_DESCRIPTION } from '../consts';
 				}
 			}
 
+			.no-indent {
+				margin-left: 0;
+				padding-left: 0;
+			}
+
 			li {
 				list-style-type: none;
-				margin: 
 			}
 			
 		</style>
