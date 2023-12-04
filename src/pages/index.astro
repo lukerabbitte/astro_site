@@ -15,8 +15,22 @@ import { SITE_TITLE, SITE_DESCRIPTION } from '../consts';
 		<Header title={SITE_TITLE} />
 		<main>
 
-			<p>I am a 4th year Computer Science and Language student in Trinity College Dublin. Welcome! Here you'll find some of my musings, as well as my GitHub and social links to keep up with all of my personal projects.</p>
-			<p>I am constantly iterating upon this site, so expect some new visual and functional changes coming soon. </p>
+			<p>I'm a 4th year Computer Science and Language student in Trinity College Dublin. Welcome! Here you'll find some of my musings, as well as my GitHub and social links to keep up with all of my personal projects.</p>
+
+			<div>
+				<p>
+					Some stuff I'm working on at the moment:
+				</p>
+				<ul>
+					<li>🧠 Transformers: Adapting the decision transformer framework for sequence-to-sequence recommendation task</li>
+					<!--<li>💻 Tobar: Third-level course information platform</li>-->
+					<li>🌐 FullStackOpen: Broadening my fullstack skills with this nice University of Helsinki <a href="https://fullstackopen.com/en/">course</a></li>
+					<li>📚 College: Variety of modules, mostly CS and some linguistics</li>
+					<li>💿 Fun: Working on some audiovisual <a href="https://open.spotify.com/artist/07HIYTYKnxErGY6d27LtNp?si=4PXoZDbnQqeihBDjGfVF7A">art</a></li>
+				</ul>
+			</div>
+
+			<p>I made this site using Astro and Netlify. </p>
 
 			<img id="anagram" src="/anagram-animation-verdana.gif" alt="Anagram Animation">
 			
@@ -46,7 +60,12 @@ import { SITE_TITLE, SITE_DESCRIPTION } from '../consts';
 				#anagram {
 					transform: scale(0.1); /* Scale for screens with a minimum width of 765px */
 				}
-				}
+			}
+
+			li {
+				list-style-type: none;
+				margin: 
+			}
 			
 		</style>
 
