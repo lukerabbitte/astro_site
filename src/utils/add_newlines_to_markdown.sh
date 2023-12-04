@@ -1,3 +1,5 @@
+# Can be replaced by sed: sed -i 's/$/  /' "filename"
+
 #!/bin/bash
 
 if [ $# -lt 2 ]; then
@@ -9,7 +11,7 @@ input_file="$1"
 start_line="$2"
 end_line="$3"
 
-if [ -z "$end_line" ]; then
+if [ -z "$end_line" ]; thenwsl
     end_line="$(wc -l < "$input_file")"
 fi
 
