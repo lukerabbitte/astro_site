@@ -48,4 +48,4 @@ Parks of completeness
 The glistening lattice of balconies  
 The glad feeling of sinking  
 Your roots sink into a moodless ground  
-And make no sound  
+And making no sound  
