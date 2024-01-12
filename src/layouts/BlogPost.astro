@@ -33,11 +33,20 @@ const { title, description, pubDate, heroImage } = Astro.props;
 		<main>
 			<article>
 				{heroImage && <img width={720} height={360} src={heroImage} alt="Blog Image" />}
-				<h1 class="title">{title}</h1>
-				<FormattedDate date={pubDate} />
+				<div class="titleAndDate">
+					<h1 class="title">{title}</h1>
+					<FormattedDate date={pubDate} />
+				</div>
 				<slot />
 			</article>
 		</main>
 		<Footer />
 	</body>
 </html>
+
+<style>
+	.titleAndDate {
+		font-family: 'Roboto Mono', monospace;
+		text-shadow: 10px 10px rgb(179, 223, 179);
+	}
+</style>
