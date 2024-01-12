@@ -2,7 +2,7 @@
 title: 'I Have a Fathomless Cabinet'
 description: 'Poem written by Luke Rabbitte'
 pubDate: 'May 16 2022'
-heroImage: '/interlaken.jpeg'
+heroImage: '/train_station_reflection-min.jpeg'
 ---
 
 I have a fathomless cabinet  

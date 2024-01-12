@@ -2,7 +2,7 @@
 title: 'I Will Find You in Cities'
 description: 'Poem written by Luke Rabbitte'
 pubDate: 'Jun 08 2022'
-heroImage: '/interlaken.jpeg'
+heroImage: '/sziget_wheel-min.jpeg'
 ---
 
 I will find you in some city  

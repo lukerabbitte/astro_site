@@ -2,7 +2,7 @@
 title: 'Minervas Owl'
 description: 'Short story chapter written by Luke Rabbitte'
 pubDate: 'Sep 03 2022'
-heroImage: '/interlaken.jpeg'
+heroImage: '/koi_pond-min.jpeg'
 ---
 
 Cycling into the Philosopher's Garden, backtracking our rental bikes and rucksacks off track uphill to the still seat of germination, nations race as we beat the drift of sleep in the deep light-trick of safety. We read the ivy-choked stonemasonry, wizen on the Budapest-admiring bench, hoodwink the shrinking streets, Minerva út. Green lawns with no dogs allowed, white cloud overhead, old red town. Twenty years in one, the colours of dustless life. Stems breaking through the soft sand. Hot pavements downtrodden. Stopping but knowing when best again to get going. Holidaying Irish rocking and swaying, Fontaines D.C I Love You playing. I love you even when you're out of reach, a steep staircase, run-for-your-life chase. You're always one train away. Walking the walk of a mutineer at the Fisherman's Bastion. Life is a dream that is happening right here.

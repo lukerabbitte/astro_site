@@ -2,7 +2,7 @@
 title: 'What Does Your Soul Look Like?'
 description: 'Short story chapter written by Luke Rabbitte'
 pubDate: 'Sep 30 2022'
-heroImage: '/interlaken.jpeg'
+heroImage: '/beth_shack-min.jpeg'
 ---
 
 The planets are bright, the constellations studious. Greek beer on the tongue. Swimming out to meet it halfway. Water rushing in and out of ears, vacant black water in our porches. Not a white horse nor cow in sight, far from the land of milk but still a darkened handshaped scrape from the milky way. Surroundings toggled on and off in a handshake. Stakes rising up from today supporting tomorrow, a bockety jetty walked over the warm water.

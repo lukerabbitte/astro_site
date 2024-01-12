@@ -2,7 +2,7 @@
 title: 'Spinning Foreignly Around'
 description: 'Poem written by Luke Rabbitte'
 pubDate: 'Nov 11 2022'
-heroImage: '/interlaken.jpeg'
+heroImage: '/bastille_via_ferrata-min.jpeg'
 ---
 
 Spinning foreignly around  

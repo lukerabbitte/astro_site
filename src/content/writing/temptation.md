@@ -2,7 +2,7 @@
 title: 'Temptation'
 description: 'Poem written by Luke Rabbitte'
 pubDate: 'May 06 2022'
-heroImage: '/interlaken.jpeg'
+heroImage: '/i_love_you_buda-min.jpeg'
 ---
 
 40 days since our last accident  

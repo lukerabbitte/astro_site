@@ -2,7 +2,7 @@
 title: 'Interlaken'
 description: 'Short story chapter written by Luke Rabbitte'
 pubDate: 'Aug 04 2022'
-heroImage: '/interlaken.jpeg'
+heroImage: '/night_orange_tent-min.jpeg'
 ---
 
 Ducks in a midnight cauldron floating. Received on the field of reeds. There is no moss here, paperlike shoots the colour of yellow midsummer flutter here. The river is three dimensional tonight, paradise of life slipping along sloping dirt in Interlaken. Silver water. In the broad sun of late afternoon we shattered the silver water and it has been one reckless queue all day. Knowing the phenomenon by its visitors. All pay less heed, possess one less feck than the next. Slug leaves swirl pitifully – all washed up from the ditch. Above the brim of a book I see this old reality. A swim in a brook. As in a brokerage firm back home passing handshakes from one cool palm to the next. A collection, a taskforce, an accountancy of eels slid through the noon flue earlier. Goods in transit: bien-être.
