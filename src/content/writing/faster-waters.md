@@ -2,7 +2,7 @@
 title: 'Faster Waters'
 description: 'Short story chapter written by Luke Rabbitte'
 pubDate: 'Sep 20 2022'
-heroImage: '/interlaken.jpeg'
+heroImage: '/bonigen-min'
 ---
 
 Reclining syncretically between Isère and Drac. A new bivouac snuggling crumbling col, between this and that. A cloudblanket uncertain, ephemeral, flying past rare old days. It is your hundredth day of recollectable life, where are the others? Last Thursdayism. A single day translated, scrappily, impossibly spelling it out, the fate of memory to misplace the subtleties. The tiles are hot, I'm walking across hot tiles in Lisbon Garo do Oriente, fastening myself into memory. Remain in state. Remembering Portugal's maritime history. Landed and untackled, forget the language as time goes on. Impression of our ink on skin, what hath the monks tattooed in common.

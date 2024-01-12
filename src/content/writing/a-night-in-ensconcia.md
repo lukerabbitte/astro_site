@@ -2,7 +2,7 @@
 title: 'A Night in Ensconcia'
 description: 'Short story chapter written by Luke Rabbitte'
 pubDate: 'Sep 04 2022'
-heroImage: '/interlaken.jpeg'
+heroImage: '/buda_sunset-min'
 ---
 
 The linen of Garmisch-Partenkirchen, the possessions of the prince-bishopric. An excellently executed portrait of Sister Germanface on Fronleichnam day carrying forth the body of Christ into the cold town. The Loisach is dribbling with salmon tonight and they are cold on the tongue. For what licked Fionn? In periodic gnaw, circumnavigating thawing fought-for winter well water well asked after and sought for, the cold melt frustrates us.

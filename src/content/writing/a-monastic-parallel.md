@@ -2,7 +2,7 @@
 title: 'A Monastic Parallel'
 description: 'Short story chapter written by Luke Rabbitte'
 pubDate: 'Aug 24 2022'
-heroImage: '/interlaken.jpeg'
+heroImage: '/round_tower_stars-min'
 ---
 
 The stream at Buile an Araltraigh drains Wicklow into Dublin. On a hot spring day running shirtless to the source. Rough secondhand rucksack strap fraying in the motion. Its silvery threads dropping plastic crumb trails on the sand, studying every crinkle and divot on my hand, every strain on the webbing, every pearly nail and scale powering beneath the sailing plane of midday. Stretching outwards from the wintery foetal position in full gallop, enjoying the movement, slick on the skin, regaining the heat of a sun that has remembered how high up it can go.

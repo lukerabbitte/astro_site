@@ -2,7 +2,7 @@
 title: 'The Neverending City'
 description: 'Poem written by Luke Rabbitte'
 pubDate: 'Aug 01 2023'
-heroImage: '/interlaken.jpeg'
+heroImage: '/bastille_via_ferrata-min'
 ---
 
 I looked down  

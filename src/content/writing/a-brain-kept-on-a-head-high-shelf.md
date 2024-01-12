@@ -2,7 +2,7 @@
 title: 'A Brain Kept on a Head-High Shelf'
 description: 'Poem written by Luke Rabbitte'
 pubDate: 'Jul 23 2021'
-heroImage: '/interlaken.jpeg'
+heroImage: '/hellfire_crew-min'
 ---
 
 A brain kept on a head-high shelf  
