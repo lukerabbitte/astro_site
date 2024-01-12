@@ -2,7 +2,7 @@
 title: 'Poem for Turlough O Carolan'
 description: 'Poem written by Luke Rabbitte'
 pubDate: 'Mar 26 2022'
-heroImage: '/interlaken.jpeg'
+heroImage: '/monks-min.jpeg'
 ---
 
 I am different things to different people  

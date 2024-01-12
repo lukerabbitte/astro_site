@@ -2,7 +2,7 @@
 title: 'Riders of the Sidhe'
 description: 'Poem written by Luke Rabbitte'
 pubDate: 'Mar 13 2022'
-heroImage: '/interlaken.jpeg'
+heroImage: '/riders-min.jpeg'
 ---
 
 Friction burns in the coals
