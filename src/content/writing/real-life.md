@@ -2,7 +2,7 @@
 title: 'Real Life'
 description: 'Poem written by Luke Rabbitte'
 pubDate: 'Dec 13 2022'
-heroImage: '/interlaken.jpeg'
+heroImage: '/achill_minaun_sheep-min'
 ---
 
 Real life is an optical table  
