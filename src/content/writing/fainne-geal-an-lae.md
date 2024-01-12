@@ -2,7 +2,7 @@
 title: 'Fáinne Geal an Lae'
 description: 'Poem written by Luke Rabbitte'
 pubDate: 'May 12 2021'
-heroImage: '/sea_cliff_sunset-min'
+heroImage: '/sea_cliff_sunset-min.jpeg'
 ---
 
 Agus ó am go chéile seaisimid nocht faoi na spéire agus cuirtear na ceisteanna céanna orainn uair amháin eile  

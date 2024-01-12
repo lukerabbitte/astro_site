@@ -2,7 +2,7 @@
 title: 'Tenue Correcte Attendue'
 description: 'Short story chapter written by Luke Rabbitte'
 pubDate: 'Sep 13 2023'
-heroImage: '/final_dinner_party-min'
+heroImage: '/final_dinner_party-min.jpeg'
 ---
 
 Pragmatically shelving the tinny objections, she sees her hair into stasis. There is something in the way she moves, like a low ape with a cool gait moaning at the sun, tripping over the features of the forest floor. She woke up still dreaming, dreaming of a static harbour where something clever comes over her and, forgetting to breathe, she leaps her breeches off and her hair is a tangled pulsar, still the limping-away image of a minor fishing boat from over there, smelling the bands of wooden engineering like a reminder of a cosy hunting home, the fish whimper to the ducks and every animal that we tickle to death, dumped in that rotten memorial that calls the food to its fork. Using too many pairs of plates in the good room. So used, so used, licking like a drooping fool at the moon. Tickling her hair, fingering the corona-gold medal of daylight, lingering on the cold beauty of her armoire she expects what happens next.

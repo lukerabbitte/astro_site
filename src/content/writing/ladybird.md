@@ -2,7 +2,7 @@
 title: 'Ladybird'
 description: 'Poem written by Luke Rabbitte'
 pubDate: 'Aug 28 2023'
-heroImage: '/hellfire_crew-min'
+heroImage: '/hellfire_crew-min.jpeg'
 ---
 
 Aerial and powerful  

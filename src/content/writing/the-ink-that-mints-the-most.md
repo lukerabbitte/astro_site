@@ -2,7 +2,7 @@
 title: 'The Ink That Mints the Most'
 description: 'Poem written by Luke Rabbitte'
 pubDate: 'Apr 01 2023'
-heroImage: '/round_tower_stars_group-min'
+heroImage: '/round_tower_stars_group-min.jpeg'
 ---
 
 The ink that mints the most  

@@ -2,7 +2,7 @@
 title: 'A Quickly Lightening Sky'
 description: 'Poem written by Luke Rabbitte'
 pubDate: 'Jun 20 2020'
-heroImage: '/achill_minaun_sheep-min'
+heroImage: '/achill_minaun_sheep-min.jpeg'
 ---
 
 They say history is for winners  

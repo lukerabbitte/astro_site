@@ -2,7 +2,7 @@
 title: 'Footsteps of Little Flower'
 description: 'Poem written by Luke Rabbitte'
 pubDate: 'Sep 25 2023'
-heroImage: '/forty_foot_swimmer_silhouette-min'
+heroImage: '/forty_foot_swimmer_silhouette-min.jpeg'
 ---
 
 His rising ring finger blood  

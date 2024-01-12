@@ -2,7 +2,7 @@
 title: 'Iris Ashes'
 description: 'Poem written by Luke Rabbitte'
 pubDate: 'Aug 27 2023'
-heroImage: '/louvre_drama-min'
+heroImage: '/louvre_drama-min.jpeg'
 ---
 
 Iris ashes far sing  
