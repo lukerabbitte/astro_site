@@ -49,6 +49,7 @@ const posts = (await getCollection('writing')).sort(
 							<li>
 								<FormattedDate date={post.data.pubDate} />
 								<a href={`/writing/${post.slug}/`}>{post.data.title}</a>
+								
 							</li>
 						))
 					}
@@ -56,5 +57,11 @@ const posts = (await getCollection('writing')).sort(
 			</section>
 		</main>
 		<Footer />
+		<style>
+			li {
+				display: flex;
+				align-items: center;
+			}
+		</style>
 	</body>
 </html>
